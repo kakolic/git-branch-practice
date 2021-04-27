@@ -1,4 +1,0 @@
-git branch
-Socrates
-Joan of Arc
-Abraham Lincoln
