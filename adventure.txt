@@ -1,4 +1,3 @@
-git branch
-Socrates
+Socrates 3
 Joan of Arc
 Abraham Lincoln
